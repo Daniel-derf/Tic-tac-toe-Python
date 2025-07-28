@@ -1,4 +1,4 @@
-# 🕹️ Terminal Tic Tac Toe (Jogo da Velha)
+# 🕹️ Terminal Tic Tac Toe
 
 A simple, interactive **Tic Tac Toe** game built in Python, playable entirely through the terminal.  
 Includes full game logic, player switching, input validation, and automated tests using `unittest`.
